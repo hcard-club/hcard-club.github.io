@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="720"
+   viewBox="0 0 190.5 190.50001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="sun-layer1.svg"
+   inkscape:export-filename="C:\Users\turbo\Pictures\20210202\parallax1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect929"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect894"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect849"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect838"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="469.87522"
+     inkscape:cy="505.55827"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-center="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       style="opacity:0.998642;fill:#aade87;fill-opacity:0;stroke-width:3.48796;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 1.5076571,598.94801 V 479.3368 l 4.4926643,5.68263 c 8.7373456,11.05161 29.4284216,30.12044 42.0292756,38.73405 21.915163,14.98064 40.935526,23.47534 67.700793,30.23592 13.97329,3.52948 17.23326,3.80231 45.06298,3.7713 33.86452,-0.0377 44.14849,-1.71067 70.10132,-11.4036 27.3056,-10.19817 48.04222,-22.15577 96.32725,-55.54633 18.46429,-12.7686 40,-27.13839 47.85715,-31.93286 53.26895,-32.50498 111.20067,-48.89013 172.85714,-48.89013 52.7123,0 99.73558,11.14448 146.84921,34.80314 l 23.15079,11.62543 0.36461,131.07143 0.36463,131.07143 H 360.08656 1.5076571 Z"
+       id="path858"
+       transform="matrix(0.26458333,0,0,0.26458333,0.53453904,0.53453904)"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <path
+       style="opacity:0.998642;fill:#89e150;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 0,165.4663 v -25.18703 l 1.1945315,1.19661 c 2.3231281,2.32718 7.8245717,6.34259 11.1749475,8.15639 5.826911,3.15454 10.884138,4.9433 18.000618,6.3669 3.715286,0.74322 4.582063,0.80067 11.981564,0.79414 9.004063,-0.008 11.738415,-0.36022 18.638881,-2.4013 7.260146,-2.14747 12.773699,-4.66543 25.611958,-11.69662 4.909376,-2.68874 10.635395,-5.71465 12.724495,-6.72424 14.163405,-6.84471 29.566575,-10.295 45.960105,-10.295 14.0154,0 26.51818,2.34674 39.04498,7.32865 l 6.15544,2.44801 0.097,27.60026 0.097,27.60026 H 95.340706 0 Z"
+       id="path860"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-9"
+       width="7.1343002"
+       height="2.3623512"
+       x="68.275597"
+       y="154.77579"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <path
+       id="path1850"
+       style="fill:#37abc8;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 240.25391,580.55469 c 0,0 -12.25958,3.0492 -6.8711,3.38672 8.60277,-1.09081 3.19375,2.675 10.18164,5.11718 6.98788,2.44222 15.2164,2.3279 19.17383,5.35938 3.95743,3.03144 5.61678,4.96933 7.04883,7.66406 1.27814,2.40511 8.5154,4.3835 11.07617,6.69531 -12.45047,2.26802 -20.86328,6.6691 -20.86328,11.75 0,7.41503 17.90923,13.38477 40.1543,13.38477 22.24507,0 40.15234,-5.96974 40.15234,-13.38477 0,-7.41502 -17.90727,-13.38476 -40.15234,-13.38476 -5.11642,0 -9.98606,0.32775 -14.47852,0.9043 -1.44598,-2.11371 -9.9342,-4.73435 -11.82812,-7.4375 l -2.83399,-4.04493 c -1.32122,-1.88572 -2.55264,-4.08646 -6.35742,-5.6914 -3.80479,-1.60498 -6.80315,-2.10824 -8.73828,-3.03321 -1.93513,-0.925 -10.20297,0.15293 -11.16602,-4.02734 -1.76661,-3.5551 -4.49804,-3.25781 -4.49804,-3.25781 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-8"
+       width="7.1343002"
+       height="2.3623512"
+       x="53.12928"
+       y="156.62389"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944"
+       width="2.8348215"
+       height="10.394345"
+       x="56.69643"
+       y="147.41072"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-5"
+       width="7.1343002"
+       height="2.3623512"
+       x="62.38969"
+       y="159.45869"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-4"
+       width="2.8348215"
+       height="10.394345"
+       x="65.956841"
+       y="150.24553"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966"
+       width="9.4494047"
+       height="9.260417"
+       x="53.537018"
+       y="142.64688"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9"
+       width="6.7501822"
+       height="6.9061856"
+       x="57.355923"
+       y="141.86684"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-6"
+       width="2.8348215"
+       height="10.394345"
+       x="71.842743"
+       y="145.56262"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3"
+       width="9.4494047"
+       height="9.260417"
+       x="62.581757"
+       y="145.56403"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-2"
+       width="9.4494047"
+       height="9.260417"
+       x="68.683334"
+       y="140.79878"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-5"
+       width="6.7501822"
+       height="6.9061856"
+       x="66.657852"
+       y="145.42899"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-4"
+       width="6.7501822"
+       height="6.9061856"
+       x="72.502235"
+       y="140.01874"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-39"
+       width="7.1343002"
+       height="2.3623512"
+       x="131.08826"
+       y="135.72169"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-8"
+       width="2.8348215"
+       height="10.394345"
+       x="133.19034"
+       y="126.84263"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-28"
+       width="9.4494047"
+       height="9.260417"
+       x="130.03093"
+       y="122.07879"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-2"
+       width="6.7501822"
+       height="6.9061856"
+       x="133.84984"
+       y="121.29874"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-2"
+       width="7.1343002"
+       height="2.3623512"
+       x="137.41753"
+       y="140.13759"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-5"
+       width="2.8348215"
+       height="10.394345"
+       x="139.48033"
+       y="131.3392"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-1"
+       width="7.1343002"
+       height="2.3623512"
+       x="142.82974"
+       y="134.95923"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-54"
+       width="2.8348215"
+       height="10.394345"
+       x="145.32471"
+       y="125.92895"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-6"
+       width="9.4494047"
+       height="9.260417"
+       x="136.32091"
+       y="126.57536"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-60"
+       width="9.4494047"
+       height="9.260417"
+       x="142.1653"
+       y="121.16511"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-7"
+       width="6.7501822"
+       height="6.9061856"
+       x="140.13982"
+       y="125.79532"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-0"
+       width="6.7501822"
+       height="6.9061856"
+       x="145.98421"
+       y="120.38506"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-7"
+       width="7.1343002"
+       height="2.3623512"
+       x="149.51147"
+       y="141.64098"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-1"
+       width="2.8348215"
+       height="10.394345"
+       x="152.07491"
+       y="132.83513"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-38"
+       width="9.4494047"
+       height="9.260417"
+       x="148.91548"
+       y="128.07129"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-53"
+       width="6.7501822"
+       height="6.9061856"
+       x="152.73439"
+       y="127.29125"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-59"
+       width="7.1343002"
+       height="2.3623512"
+       x="165.3472"
+       y="141.00621"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-44"
+       width="2.8348215"
+       height="10.394345"
+       x="167.85829"
+       y="132.14497"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-66"
+       width="9.4494047"
+       height="9.260417"
+       x="164.69887"
+       y="127.38113"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-9"
+       width="6.7501822"
+       height="6.9061856"
+       x="168.51778"
+       y="126.60109"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-6"
+       width="7.1343002"
+       height="2.3623512"
+       x="6.0675783"
+       y="150.57895"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-7"
+       width="2.8348215"
+       height="10.394345"
+       x="9.6347284"
+       y="141.36578"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-20"
+       width="9.4494047"
+       height="9.260417"
+       x="6.4753122"
+       y="136.60194"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-41"
+       width="6.7501822"
+       height="6.9061856"
+       x="10.294221"
+       y="135.8219"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145"
+       width="7.1343002"
+       height="2.3623512"
+       x="10.792275"
+       y="155.20917"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-89"
+       width="2.8348215"
+       height="10.394345"
+       x="14.359426"
+       y="145.996"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-5"
+       width="9.4494047"
+       height="9.260417"
+       x="11.200014"
+       y="141.23216"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.744262;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-6"
+       width="6.7501822"
+       height="6.9061856"
+       x="15.018919"
+       y="140.45212"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#676c53;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-3"
+       width="7.1343002"
+       height="2.3623512"
+       x="88.938782"
+       y="167.3779"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#6b8700;fill-opacity:1;stroke:none;stroke-width:0.0343266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3-0-0-5-8"
+       width="2.4095981"
+       height="2.4450338"
+       x="94.470421"
+       y="165.60672"
+       ry="1.2225169"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#784421;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect944-0"
+       width="2.8348215"
+       height="10.394345"
+       x="92.505936"
+       y="158.16473"
+       ry="1.4174107"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-65"
+       width="9.4494047"
+       height="9.260417"
+       x="89.346527"
+       y="153.40089"
+       ry="4.6302085"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.822951;fill:#aad400;fill-opacity:1;stroke:none;stroke-width:0.096559;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-9-1"
+       width="6.7501822"
+       height="6.9061856"
+       x="93.165428"
+       y="152.62085"
+       ry="3.4530928"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.042758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3-3"
+       width="3.0710564"
+       height="2.9765627"
+       x="78.514366"
+       y="157.52454"
+       ry="1.4882814"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#6b8700;fill-opacity:1;stroke:none;stroke-width:0.0343266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3-0"
+       width="2.4095981"
+       height="2.4450338"
+       x="77.18972"
+       y="158.11168"
+       ry="1.2225169"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#88aa00;fill-opacity:1;stroke:none;stroke-width:0.042758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3-3-3-7"
+       width="3.0710564"
+       height="2.9765627"
+       x="88.848022"
+       y="166.33315"
+       ry="1.4882814"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#6b8700;fill-opacity:1;stroke:none;stroke-width:0.0343266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3-0-0-5"
+       width="2.4095981"
+       height="2.4450338"
+       x="80.579803"
+       y="157.9527"
+       ry="1.2225169"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#6b8700;fill-opacity:1;stroke:none;stroke-width:0.0343266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect966-3-0-0-24"
+       width="2.4095981"
+       height="2.4450338"
+       x="70.637947"
+       y="154.73445"
+       ry="1.2225169"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078"
+       width="1.0394346"
+       height="1.0394346"
+       x="64.021927"
+       y="159.80908"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078-0"
+       width="1.0394346"
+       height="1.0394346"
+       x="76.453903"
+       y="147.61443"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078-1"
+       width="1.0394346"
+       height="1.0394346"
+       x="91.220551"
+       y="161.24516"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078-00"
+       width="1.0394346"
+       height="1.0394346"
+       x="97.033661"
+       y="160.30972"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078-2"
+       width="1.0394346"
+       height="1.0394346"
+       x="91.466499"
+       y="157.12531"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078-4"
+       width="1.0394346"
+       height="1.0394346"
+       x="69.598511"
+       y="153.69502"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.998642;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2078-7"
+       width="1.0394346"
+       height="1.0394346"
+       x="72.527832"
+       y="156.65977"
+       ry="0.51971728"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#e2e3db;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-8-8"
+       width="7.1343002"
+       height="2.3623512"
+       x="115.21187"
+       y="140.55989"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#e2e3db;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-8-1"
+       width="7.1343002"
+       height="2.3623512"
+       x="122.34617"
+       y="142.92224"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#e2e3db;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-8-9"
+       width="7.1343002"
+       height="2.3623512"
+       x="109.06976"
+       y="146.41853"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#e2e3db;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-8-9-2"
+       width="7.1343002"
+       height="2.3623512"
+       x="159.73453"
+       y="163.72412"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+    <rect
+       style="display:inline;opacity:0.403279;fill:#e2e3db;fill-opacity:1;stroke:none;stroke-width:0.106453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2145-8-9-7"
+       width="7.1343002"
+       height="2.3623512"
+       x="166.86884"
+       y="166.08647"
+       ry="1.1811756"
+       rx="3.5671501"
+       inkscape:export-filename="C:\Users\turbo\Pictures\20210202\sun-layer1.png"
+       inkscape:export-xdpi="224.31108"
+       inkscape:export-ydpi="224.31108" />
+  </g>
+</svg>
